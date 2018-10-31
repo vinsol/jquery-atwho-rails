@@ -12,6 +12,10 @@ $(function(){
 that's it, check it out!
 more details in [At.js Home Page](http://ichord.github.com/At.js/)
 
+### Overrites
+1. Added "stopPropagationOnEnter" flat to stop event propagatoin on enter
+2. Handle '.' when showing highlighted results
+
 ### Installation
 ---
 #### Rails 3.0.x
